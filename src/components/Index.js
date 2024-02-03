@@ -9,10 +9,10 @@ const Index = () => {
                 <Row>
                     <Col>
                         <div className="home-btn my-4">
-                            <Link to="/">
+                            <Link to="/all-users">
                                 <button className='mx-2'>Home</button>
                             </Link>
-                            <Link to="/users">
+                            <Link to="/all-users/users">
                                 <button className='mx-2'>Users</button>
                             </Link>
                         </div>
