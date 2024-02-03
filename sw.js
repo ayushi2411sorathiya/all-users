@@ -10,13 +10,15 @@ const urlCache = [
     "/manifest.json",
     "/logo192.png",
     "/users",
+
     "/all-users",
-    "/all-users/users",
     "/all-users/static/js/bundle.js",
+    "/all-users/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "/all-users/favicon.ico",
+    "/all-users/sw.js",
     "/all-users/manifest.json",
     "/all-users/logo192.png",
-    "/static/js/bundle.js",
+    "/all-users/users",
 ]
 
 
